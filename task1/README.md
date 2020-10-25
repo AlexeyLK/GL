@@ -13,6 +13,12 @@ _______________________________________________________________________________
 
 Detailed instructions for building:
 
+1) `git clone https://github.com/AlexeyLK/GL.git`
+
+2) If you are using linux machine use command: `make linux` \
+   If you are using windows machine use command: `cmake.exe --build ./bin --target all`
+   
+   
 
 
 
