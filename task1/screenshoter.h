@@ -36,7 +36,7 @@ using namespace std;
 #if PLATFORM == PLATFORM_WINDOWS
 
 
-#pragma comment(lib, "GdiPlus.lib") /* наш многострадальный lib-файл */
+#pragma comment(lib, "GdiPlus.lib") 
 using namespace Gdiplus;
 
 static const GUID png =
